@@ -1,0 +1,224 @@
+{
+  "Benua Asia": [
+    {
+      "question": "Apa luas Benua Asia?",
+      "options": ["44,58 juta km²", "20 juta km²", "30 juta km²", "50 juta km²"],
+      "answer": "44,58 juta km²"
+    },
+    {
+      "question": "Berapa populasi Asia?",
+      "options": ["1 miliar", "2,5 miliar", "4,7 miliar", "6 miliar"],
+      "answer": "4,7 miliar"
+    },
+    {
+      "question": "Gunung tertinggi di Asia terdapat di?",
+      "options": ["Pegunungan Himalaya", "Pegunungan Andes", "Pegunungan Alpen", "Pegunungan Rocky"],
+      "answer": "Pegunungan Himalaya"
+    },
+    {
+      "question": "Sungai terbesar di Asia adalah?",
+      "options": ["Nil", "Amazon", "Yangtze", "Mekong"],
+      "answer": "Yangtze"
+    },
+    {
+      "question": "Berapa persen populasi dunia tinggal di Asia?",
+      "options": ["40%", "50%", "60%", "70%"],
+      "answer": "60%"
+    }
+  ],
+
+  "Cahaya": [
+    {
+      "question": "Cahaya merupakan gelombang apa?",
+      "options": ["Suara", "Mekanik", "Elektromagnetik", "Air"],
+      "answer": "Elektromagnetik"
+    },
+    {
+      "question": "Berapa panjang gelombang cahaya yang bisa dilihat manusia?",
+      "options": ["100–200 nm", "380–750 nm", "800–1200 nm", "1–10 µm"],
+      "answer": "380–750 nm"
+    },
+    {
+      "question": "Kecepatan cahaya di ruang hampa adalah?",
+      "options": ["3.000 m/s", "300.000 km/s", "299.792.458 m/s", "150.000 km/s"],
+      "answer": "299.792.458 m/s"
+    },
+    {
+      "question": "Sifat cahaya yang menyebabkan bayangan terbentuk adalah?",
+      "options": ["Difraksi", "Interferensi", "Pemantulan", "Pembiasan"],
+      "answer": "Pemantulan"
+    },
+    {
+      "question": "Fenomena cahaya yang terjadi saat pensil terlihat bengkok di air disebut?",
+      "options": ["Interferensi", "Pembiasan", "Difraksi", "Dispersi"],
+      "answer": "Pembiasan"
+    }
+  ],
+
+  "Gunung Merapi": [
+    {
+      "question": "Gunung Merapi terletak di perbatasan provinsi mana?",
+      "options": ["Jawa Tengah & DIY", "Jawa Barat & Banten", "Bali & NTB", "Sumatera Utara & Aceh"],
+      "answer": "Jawa Tengah & DIY"
+    },
+    {
+      "question": "Gunung Merapi termasuk jenis gunung apa?",
+      "options": ["Gunung es", "Gunung api aktif", "Gunung mati", "Gunung lipatan"],
+      "answer": "Gunung api aktif"
+    },
+    {
+      "question": "Gunung Merapi merupakan bagian dari rangkaian apa?",
+      "options": ["Pegunungan Alpen", "Cincin Api Pasifik", "Himalaya", "Andes"],
+      "answer": "Cincin Api Pasifik"
+    },
+    {
+      "question": "Seberapa sering Gunung Merapi mengalami erupsi?",
+      "options": ["Setiap tahun", "Setiap beberapa tahun", "Setiap 50 tahun", "Tidak pernah"],
+      "answer": "Setiap beberapa tahun"
+    },
+    {
+      "question": "Di Indonesia, Gunung Merapi termasuk salah satu gunung yang?",
+      "options": ["Tertidur", "Tertinggi", "Teraktif", "Tertua"],
+      "answer": "Teraktif"
+    }
+  ],
+
+  "Sel Hewan": [
+    {
+      "question": "Sel hewan tidak memiliki struktur apa?",
+      "options": ["Mitokondria", "Inti sel", "Kloroplas", "Membran sel"],
+      "answer": "Kloroplas"
+    },
+    {
+      "question": "Apa fungsi mitokondria dalam sel hewan?",
+      "options": ["Menghasilkan energi", "Mengatur air", "Menyimpan cadangan makanan", "Mengatur pembelahan sel"],
+      "answer": "Menghasilkan energi"
+    },
+    {
+      "question": "Struktur utama sel hewan yang membungkus sel disebut?",
+      "options": ["Inti sel", "Membran sel", "Sitoplasma", "Dinding sel"],
+      "answer": "Membran sel"
+    },
+    {
+      "question": "Organel yang mengontrol seluruh aktivitas sel adalah?",
+      "options": ["Ribosom", "Inti sel", "Lisosom", "Retikulum endoplasma"],
+      "answer": "Inti sel"
+    },
+    {
+      "question": "Sel hewan termasuk dalam jenis sel?",
+      "options": ["Prokariotik", "Eukariotik", "Virus", "Bakteri"],
+      "answer": "Eukariotik"
+    }
+  ],
+
+  "Fotosintesis": [
+    {
+      "question": "Fotosintesis terjadi pada bagian tumbuhan yang mengandung?",
+      "options": ["Xilem", "Floem", "Klorofil", "Akar"],
+      "answer": "Klorofil"
+    },
+    {
+      "question": "Gas apa yang dihasilkan dalam proses fotosintesis?",
+      "options": ["CO2", "O2", "N2", "CH4"],
+      "answer": "O2"
+    },
+    {
+      "question": "Persamaan kimia fotosintesis menghasilkan glukosa dengan rumus?",
+      "options": ["C6H12O6", "H2O", "CO2", "CH4"],
+      "answer": "C6H12O6"
+    },
+    {
+      "question": "Fotosintesis memerlukan gas apa dari udara?",
+      "options": ["Oksigen", "Karbon dioksida", "Nitrogen", "Hidrogen"],
+      "answer": "Karbon dioksida"
+    },
+    {
+      "question": "Energi utama yang digunakan dalam fotosintesis adalah?",
+      "options": ["Cahaya matahari", "Panas bumi", "Reaksi kimia", "Energi listrik"],
+      "answer": "Cahaya matahari"
+    }
+  ],
+  "Air": [
+    {
+      "question": "Apa rumus kimia dari air?",
+      "options": ["CO2", "H2O", "O2", "NaCl"],
+      "answer": "H2O"
+    },
+    {
+      "question": "Berapa persen tubuh manusia terdiri dari air?",
+      "options": ["30%", "50%", "70%", "90%"],
+      "answer": "70%"
+    },
+    {
+      "question": "Air berperan sebagai pelarut apa?",
+      "options": ["Universal", "Lemak", "Protein", "Logam"],
+      "answer": "Universal"
+    },
+    {
+      "question": "Fungsi air dalam tubuh salah satunya adalah?",
+      "options": ["Transportasi zat", "Menyimpan energi", "Mengatur hormon", "Membentuk protein"],
+      "answer": "Transportasi zat"
+    },
+    {
+      "question": "Air terdiri dari berapa atom hidrogen?",
+      "options": ["1", "2", "3", "4"],
+      "answer": "2"
+    }
+  ],
+
+  "Borobudur": [
+    {
+      "question": "Candi Borobudur dibangun pada abad keberapa?",
+      "options": ["Ke-5", "Ke-8", "Ke-10", "Ke-12"],
+      "answer": "Ke-8"
+    },
+    {
+      "question": "Siapa dinasti yang membangun Candi Borobudur?",
+      "options": ["Syailendra", "Majapahit", "Mataram", "Sriwijaya"],
+      "answer": "Syailendra"
+    },
+    {
+      "question": "Candi Borobudur merupakan candi agama apa?",
+      "options": ["Hindu", "Buddha", "Kristen", "Islam"],
+      "answer": "Buddha"
+    },
+    {
+      "question": "Borobudur terdiri dari ribuan apa?",
+      "options": ["Patung", "Relief", "Pilar", "Lukisan"],
+      "answer": "Relief"
+    },
+    {
+      "question": "Borobudur termasuk situs warisan dunia yang ditetapkan oleh?",
+      "options": ["PBB", "UNESCO", "ASEAN", "WHO"],
+      "answer": "UNESCO"
+    }
+  ],
+
+  "Wayang Kulit": [
+    {
+      "question": "Wayang kulit menggunakan bahan utama dari?",
+      "options": ["Kertas", "Kayu", "Kulit sapi/kerbau", "Bambu"],
+      "answer": "Kulit sapi/kerbau"
+    },
+    {
+      "question": "Pertunjukan wayang kulit biasanya diiringi dengan?",
+      "options": ["Gamelan", "Rebana", "Orkestra", "Piano"],
+      "answer": "Gamelan"
+    },
+    {
+      "question": "Tokoh utama dalam cerita wayang biasanya berasal dari epos?",
+      "options": ["Iliad", "Ramayana & Mahabharata", "Alkitab", "Shahnameh"],
+      "answer": "Ramayana & Mahabharata"
+    },
+    {
+      "question": "Wayang kulit digerakkan oleh seorang?",
+      "options": ["Penari", "Dalang", "Seniman", "Maestro"],
+      "answer": "Dalang"
+    },
+    {
+      "question": "Wayang kulit diakui sebagai warisan budaya oleh?",
+      "options": ["ASEAN", "UNESCO", "PBB", "UNICEF"],
+      "answer": "UNESCO"
+    }
+  ]
+}

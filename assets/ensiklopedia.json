@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Benua Asia",
+    "desc": "Benua terbesar di dunia, dengan populasi terbanyak.",
+    "category": "Geografi",
+    "image": "assets/ensiklopedia/asia.png",
+    "content": "Benua Asia adalah benua terbesar di dunia dengan luas sekitar 44,58 juta km². Asia memiliki populasi lebih dari 4,7 miliar jiwa atau lebih dari 60% populasi dunia. Di Asia terdapat berbagai pegunungan besar seperti Himalaya, gurun luas seperti Gobi, serta sungai besar seperti Sungai Yangtze. Selain itu, Asia memiliki keragaman budaya, bahasa, dan agama yang sangat tinggi."
+  },
+  {
+    "title": "Cahaya",
+    "desc": "Gelombang elektromagnetik yang dapat dilihat oleh mata manusia.",
+    "category": "Sains",
+    "image": "assets/ensiklopedia/cahaya.png",
+    "content": "Cahaya merupakan gelombang elektromagnetik dengan panjang gelombang sekitar 380–750 nanometer, yang dapat dideteksi oleh mata manusia. Sifat cahaya meliputi pemantulan, pembiasan, difraksi, dan interferensi. Kecepatan cahaya di ruang hampa mencapai 299.792.458 meter per detik."
+  },
+  {
+    "title": "Gunung Merapi",
+    "desc": "Gunung berapi aktif di Jawa Tengah, Indonesia.",
+    "category": "Geografi",
+    "image": "assets/ensiklopedia/merapi.png",
+    "content": "Gunung Merapi adalah salah satu gunung api teraktif di dunia yang terletak di perbatasan Jawa Tengah dan Daerah Istimewa Yogyakarta. Gunung ini sering mengalami erupsi setiap beberapa tahun sekali dan merupakan bagian dari rangkaian gunung berapi di jalur Cincin Api Pasifik."
+  },
+  {
+    "title": "Sel Hewan",
+    "desc": "Unit terkecil kehidupan pada organisme hewan.",
+    "category": "Biologi",
+    "image": "assets/ensiklopedia/sel_hewan.png",
+    "content": "Sel hewan merupakan unit dasar kehidupan yang membentuk tubuh hewan. Tidak seperti sel tumbuhan, sel hewan tidak memiliki dinding sel dan kloroplas. Struktur utama sel hewan mencakup membran sel, inti sel, sitoplasma, mitokondria, dan berbagai organel lain yang berfungsi menjaga kehidupan sel."
+  },
+  {
+    "title": "Fotosintesis",
+    "desc": "Proses tumbuhan menghasilkan makanan dengan bantuan cahaya.",
+    "category": "Biologi",
+    "image": "assets/ensiklopedia/fotosintesis.png",
+    "content": "Fotosintesis adalah proses biokimia yang dilakukan oleh tumbuhan hijau untuk menghasilkan makanan. Dengan bantuan cahaya matahari, tumbuhan menyerap karbon dioksida (CO2) dari udara dan air (H2O) dari tanah untuk menghasilkan glukosa (C6H12O6) dan oksigen (O2). Proses ini sangat penting bagi kehidupan karena menjadi dasar rantai makanan."
+  },
+  {
+    "title": "Air",
+    "desc": "Senyawa penting bagi kehidupan dengan rumus H2O.",
+    "category": "Sains",
+    "image": "assets/ensiklopedia/air.png",
+    "content": "Air adalah senyawa kimia yang terdiri dari dua atom hidrogen dan satu atom oksigen (H2O). Air merupakan komponen penting dalam kehidupan semua makhluk hidup, mencakup lebih dari 70% tubuh manusia. Selain sebagai pelarut universal, air juga berperan dalam metabolisme, pengaturan suhu, dan transportasi zat."
+  },
+  {
+    "title": "Borobudur",
+    "desc": "Candi Buddha terbesar di dunia, terletak di Jawa Tengah.",
+    "category": "Sejarah",
+    "image": "assets/ensiklopedia/borobudur.png",
+    "content": "Candi Borobudur adalah salah satu monumen Buddha terbesar di dunia yang dibangun pada abad ke-8 oleh Dinasti Syailendra. Candi ini terdiri dari ribuan relief dan ratusan stupa yang menceritakan kisah kehidupan Buddha. Borobudur telah menjadi salah satu situs warisan dunia UNESCO dan destinasi wisata utama Indonesia."
+  },
+  {
+    "title": "Wayang Kulit",
+    "desc": "Kesenian tradisional Indonesia dengan boneka kulit.",
+    "category": "Budaya",
+    "image": "assets/ensiklopedia/wayang.png",
+    "content": "Wayang kulit adalah seni pertunjukan tradisional Jawa yang menggunakan boneka kulit sapi atau kerbau yang digerakkan oleh seorang dalang. Pertunjukan wayang biasanya diiringi gamelan dan menceritakan kisah dari epos Mahabharata dan Ramayana. Wayang diakui UNESCO sebagai warisan budaya dunia."
+  }
+]

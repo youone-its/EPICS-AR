@@ -1,0 +1,55 @@
+name: epicsarv1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.9
+  google_fonts: ^6.1.0
+  mobile_scanner: ^3.5.7
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_native_splash: ^2.4.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
+    - assets/epics.svg
+    - assets/daun.svg
+    - assets/epics-logo.svg
+    - assets/bottom.svg
+    - assets/ensiklopedi.svg
+    - assets/left.svg
+    - assets/ensiklopedia.json
+    - assets/ensiklopedia/cahaya.png
+    - assets/ensiklopedia/air.png
+    - assets/ensiklopedia/asia.png
+    - assets/ensiklopedia/borobudur.png
+    - assets/ensiklopedia/fotosintesis.png
+    - assets/ensiklopedia/merapi.png
+    - assets/ensiklopedia/sel_hewan.png
+    - assets/ensiklopedia/wayang.png
+    - assets/quiz.json
+    - assets/kotak.svg
+    - assets/tangan.svg
+    - assets/models/steve.glb
+    - assets/models/creeper.glb
+    - assets/AR/creeper.png
+    - assets/AR/steve.png
+flutter_native_splash:
+  color: "#FFDD44"
+  image: assets/epics.png   # pake PNG, bukan SVG (native splash ga support svg)
+  android_12:
+    color: "#FFDD44"
+    image: assets/logo.png
